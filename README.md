@@ -204,6 +204,7 @@ Use these files to practice:
 ## 🔧 How to Use This Repo
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/SonaniAkshit/python-for-data-science.git
-   cd python-for-data-science
+```bash
+git clone https://github.com/SonaniAkshit/python-for-data-science.git
+cd python-for-data-science
+```
