@@ -13,7 +13,7 @@ python-for-data-science/
 ├─ README.md
 ├─ 01_basics/
 │  ├─ 01_introduction.ipynb
-│  ├─ 02_variables_input_output.ipynb
+│  ├─ 02_variables_types_input.ipynb
 │  ├─ 03_operators_keywords_datatypes.ipynb
 │  ├─ 04_control_flow_and_loops.ipynb
 │  └─ 05_quiz_basics_io_control_flow.ipynb
@@ -79,7 +79,7 @@ python-for-data-science/
    └─ README.md
 
 ```
-
+<!--
 ### `01_basics/`
 Core Python basics: installation, first script, input/output, variables, operators, data types and control flow.
 
@@ -200,6 +200,7 @@ Use these files to practice:
 * structuring Python projects professionally
 
 ---
+-->
 
 ## 🔧 How to Use This Repo
 
